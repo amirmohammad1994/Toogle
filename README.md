@@ -1,2 +1,2 @@
 # Toogle
-Toogle Search Engine
+Toogle, The Search Engine
