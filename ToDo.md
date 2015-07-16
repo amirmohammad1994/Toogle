@@ -10,3 +10,5 @@ TODO list
 - [ ] Dictionary
 - [ ] Web Crawler
 - [ ] Probabilistic Retirieval
+- [ ] Data Mining
+- [ ] Learning Methods
