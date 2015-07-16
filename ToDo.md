@@ -12,3 +12,6 @@ TODO list
 - [ ] Probabilistic Retirieval
 - [ ] Data Mining
 - [ ] Learning Methods
+- [ ] Recomendation and Correction
+- [ ] Champions and Static Scoring
+- [ ] Using of Semi Structured Data
